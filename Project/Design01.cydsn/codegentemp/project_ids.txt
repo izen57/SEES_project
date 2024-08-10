@@ -1,0 +1,6 @@
+E:\VUB\Software and Engineering for Embedded Systems\Project\Project\Design01.cydsn\Design01.cyprj|fe791177-3c1a-4d82-afd5-4357b9bb118a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|85009c0d-f7e7-461c-80e1-25cd84488df6
+C:\Users\ммм\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|7bbae5b6-bc23-4a4a-91b2-f0a5c39c9185
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|97236ef7-d39e-49a4-8a04-51e51307126a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bd9ab440-2e66-417b-ba00-fffc715c0089
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|70664b2b-48d6-4887-84f2-a82765887175
